@@ -1,0 +1,19 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+#resume-form input, #resume-form select {
+    border-color: #4A90E2;
+}
+
+button#generate-resume {
+    background-color: #4A90E2;
+}
+
+#download-options button {
+    background-color: #7ED321;
+}
+
+footer {
+    background-color: #434343;
+}
